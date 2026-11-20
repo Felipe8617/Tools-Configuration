@@ -1,0 +1,5 @@
+brew "fzf"
+brew "yazi"
+brew "zsh-autosuggestions"
+brew "jq"
+brew "kubectl"
